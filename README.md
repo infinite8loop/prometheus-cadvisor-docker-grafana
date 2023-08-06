@@ -20,6 +20,8 @@ cAdvisor - http://localhost:9090
 
 # Bonus Tip
 Import dashboard in Grafana with id - "193" to monitor all containers on a single pane of window.
+![image](https://github.com/infinite8loop/prometheus-cadvisor-docker-grafana/assets/103845823/f1fa7174-202a-4cea-89ab-b309a18cd89d)
+
 
 Happy Monitoring!!!
 
